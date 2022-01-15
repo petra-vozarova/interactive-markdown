@@ -37,6 +37,6 @@
   "devDependencies": {
     "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
-    "marked": "^1.1.1"
+    "marked": "^4.0.10"
   }
 }
